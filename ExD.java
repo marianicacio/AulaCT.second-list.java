@@ -1,7 +1,7 @@
 
 import java.util.Scanner;
 
-public class ExD_mariaeduarda {
+public class ExD {
 
 	public static void main(String[] args) {
 		 
